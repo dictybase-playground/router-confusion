@@ -25,3 +25,5 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Then click the routes and watch the console output.
+
+As a last resort you could read [this](https://fiture.me/share/1165.html)
